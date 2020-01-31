@@ -5,6 +5,8 @@ A data analytics project focusing on ICD code and mortality data analysis. Washi
 Together with an Insurance company, we are adjusting strategies for series of product for them. In order to scientifically set the prices for our current and future insurance products, analysing the cause of death in the US is important. The research data provided are: CDC mortality data (2005 - 2015) & ICD code. Our main goals are: Find out the major causes of death in the US, find out potential trends by analysing CDC mortality data, performing prediction for the data for 2016, and find out if any of the 5000 patients have conditions associated with major causes of death. <br/>
 The following are some of our major findings. The major causes of death in the US are Cause 2 - Neoplasms, Cause 9 - Diseases of the circulatory system, Cause 10 - Diseases of the respiratory system, and Cause 20 External causes of morbidity and mortality. For these 4 causes of death, neoplasms, circulatory system, respiratory system all have a pattern against age that most deaths happen after the age of 65. However, for the external cause of mortality, there is no pattern and it looks a bit random. Detail of death patterns against age will be shown in the report in later sections.
 
+## Data Source: 
+Please find the dataset used in this project from the following link: https://www.kaggle.com/cdc/mortality. This is not included due to large file size. 
 
 ## Technical Description:
 * Part 1: 
